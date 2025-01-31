@@ -1,0 +1,5 @@
+python-dotenv
+streamlit
+requests
+streamlit-community-navigation-bar
+pandas
