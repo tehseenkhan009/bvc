@@ -11,6 +11,16 @@ An **LLM-powered, multi-agent** chatbot using **Langflow, Streamlit, and OpenAI 
 
 ---
 
+## 📸 App Interface
+
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/bb476c51-773d-4037-a4db-ae8da4ac0371" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/b3011b32-e2cc-40da-96cb-7c2817e1c9c4" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/1acb7696-29a8-4a9d-aba9-7c5a79610fc0" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/61ac0f1a-2a62-4d86-8cb0-a780eff5d1c9" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/15ad4cff-09f3-430b-85f9-8728857fa45a" />
+
+--
+
 ## 🎥 Demo Video
 
 https://github.com/user-attachments/assets/27c3c4b6-4ff5-4627-ae17-878ad72642a8
