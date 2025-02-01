@@ -79,13 +79,13 @@ def main():
     elif page == pages[1]:
         st.subheader("📦 Products Data")
         st.markdown("#####")
-        products = pd.read_csv(os.path.join(PATH, "sample_products.csv"))
+        products = pd.read_csv(os.path.join(PATH, "sample_data/sample_products.csv"))
         st.dataframe(products)
 
     elif page == pages[2]:
         st.subheader("📜 Orders Data")
         st.markdown("#####")
-        orders = pd.read_csv(os.path.join(PATH, "sample_orders.csv"))
+        orders = pd.read_csv(os.path.join(PATH, "sample_data/sample_orders.csv"))
         st.dataframe(orders)
 
     st.markdown("######")
