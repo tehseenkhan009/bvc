@@ -12,7 +12,8 @@ An **LLM-powered, multi-agent** chatbot using **Langflow, Streamlit, and OpenAI 
 ---
 
 ## 🎥 Demo Video
-[![Watch the video](https://raw.githubusercontent.com/AkshatBhat/Langflow-Customer-Support-Agent/main/demo_thumbnail.png)](https://raw.githubusercontent.com/AkshatBhat/Langflow-Customer-Support-Agent/main/demo_video.mp4)
+
+https://github.com/user-attachments/assets/27c3c4b6-4ff5-4627-ae17-878ad72642a8
 
 ---
 
